@@ -1,0 +1,39 @@
+*{
+    padding: 2px;
+    margin: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-sizing: border-box;
+}
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Noto'; 
+  background-color: rgba(117, 53, 104, 0.942);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 3px;
+  border: 2px solid #090909;
+  border-radius: 9px;
+  cursor: pointer;
+  box-shadow: 5px 5px 5px rgb(68 68 68 / 0.6);
+    border-radius: 10px;
+}
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 291px;
+  font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid rgba(0, 0, 0, 0.296);
+    border-radius: 5px;
+}
